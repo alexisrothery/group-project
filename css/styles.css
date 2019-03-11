@@ -1,0 +1,41 @@
+body {
+  background: url('../images/mike-yukhtenko.jpg') no-repeat center;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+  border: #ffffff 20px solid;
+  padding: 0;
+  margin: 0;
+  font-family: 'Helvetica'
+}
+
+div {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  padding: 10px 30px;
+  border-radius: 5px;
+  border: none;
+  font-size: 26px;
+  text-transform: uppercase;
+  color: #000000;
+  background-color: #ffffff;
+  font-weight: bold;
+}
+
+h1:hover {
+  cursor: pointer;
+}
+
+p {
+  position: fixed;
+  bottom: 10px;
+  color: #ffffff;
+}
+
