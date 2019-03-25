@@ -2,7 +2,7 @@
 console.log('hello!')
 
 // three different variables for the different images
-var backgrounds = ['mike-yukhtenko', 'gabriele-garanzelli', 'fabian-oelkers']
+var backgrounds = ['ada_comp', 'ada_lovelace_chalon_portrait']
 
 // Only fires logic after the page has fully loaded
 $( document ).ready(function(){

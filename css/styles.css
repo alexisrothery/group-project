@@ -38,3 +38,10 @@ p {
   bottom: 10px;
   color: #ffffff;
 }
+
+
+.center-format {
+  margin: 0 auto;
+  text-align: center;
+    border: 2px solid black;
+}
